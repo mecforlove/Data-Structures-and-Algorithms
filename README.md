@@ -1,5 +1,7 @@
 # Data Structures and Algorithms
 
+[![Go Report Card](https://goreportcard.com/badge/github.com/floyernick/Data-Structures-and-Algorithms)](https://goreportcard.com/report/github.com/floyernick/Data-Structures-and-Algorithms) [![Build Status](https://travis-ci.org/floyernick/Data-Structures-and-Algorithms.svg?branch=master)](https://travis-ci.org/floyernick/Data-Structures-and-Algorithms) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/floyernick/Data-Structures-and-Algorithms/blob/master/LICENSE)
+
 Clean and simple implementation in Go
 
 ## Implementation
@@ -30,6 +32,7 @@ There are several data structures and algorithms implemented in this project. Th
 - Comb Sort
 - Cocktail Sort
 - Gnome Sort
+- Merge Sort
 
 ## Usage
 
@@ -46,7 +49,7 @@ Don't forget about proverb:
 
 ## Contribute
 
-We would be happy to receive your propositions of improvement ;)
+We would be happy to receive your propositions of improvement! Read [Contributing Guide](https://github.com/floyernick/Data-Structures-and-Algorithms/blob/master/CONTRIBUTING.md) for more details.
 
 ## License
 
